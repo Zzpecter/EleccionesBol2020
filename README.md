@@ -1,15 +1,19 @@
 requires python 3 to be installed (www.python.org)
 
 For the notebook install jupyter
-  pip install jupyterlab
+
+  - pip install jupyterlab
   
   
   
 Additional dependencies
 
-  pip install numpy
+  - pip install numpy
   
-  pip install pandas
+  - pip install pandas
   
-  pip install matplotlib
+  - pip install matplotlib
   
+Run Jupyter from the cmd with the command
+
+  - jupyter-lab
